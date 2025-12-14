@@ -1,8 +1,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arminkz" alt="arminkz" /> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arminkz&show_icons=true" alt="arminkz" />
+<img src="images/armin_git_animation.svg" alt="Banner" width="100%"/>
+
+### 👋 Hi there! I'm Armin, a passionate software developer and tech enthusiast. Welcome to my GitHub profile!
+
+---
+
+### 🔥 What I'm currently focusing on:
+- 💻 C++ Development
+- 🔧 Low-Level Programming
+- 🎨 Graphics Programming
+- 🎮 Game Development
+- 💡 Embedded Systems
+
+---
+
+### 📫 Connect with me:
+
+  <a href="https://www.linkedin.com/arminkz/"><img src="images/linkedin.svg" alt="LinkedIn" width="32"/></a>
+  <a href="https://x.com/arminkz"><img src="images/x-twitter.svg" alt="Twitter" width="32"/></a>
+  <a href="https://arminkz.github.io/"><img src="images/website.svg" alt="Website" width="32"/></a>
 
 
-If you find my projects helpful and want to support them, you can *buy me a coffee* ☕
-
-<a href="https://www.buymeacoffee.com/arminkz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<!-- Github Status -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arminkz&show_icons=true" alt="arminkz" /> -->
