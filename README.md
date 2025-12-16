@@ -17,9 +17,9 @@
 
 ### 📫 Connect with me:
 
-  <a href="https://www.linkedin.com/arminkz/"><img src="images/linkedin.svg" alt="LinkedIn" width="32"/></a>
-  <a href="https://x.com/arminkz"><img src="images/x-twitter.svg" alt="Twitter" width="32"/></a>
   <a href="https://arminkz.github.io/"><img src="images/website.svg" alt="Website" width="32"/></a>
+  <a href="https://www.linkedin.com/in/arminkz/"><img src="images/linkedin.svg" alt="LinkedIn" width="32"/></a>
+  <a href="https://x.com/arminkz"><img src="images/x-twitter.svg" alt="Twitter" width="32"/></a>
 
 
 <!-- Github Status -->
